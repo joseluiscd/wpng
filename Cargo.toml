@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 nom = "5.1.1"
 crc32fast = "1.2.0"
+libflate = "0.1.27"
