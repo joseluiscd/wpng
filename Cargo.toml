@@ -9,4 +9,7 @@ edition = "2018"
 [dependencies]
 nom = "5.1.1"
 crc32fast = "1.2.0"
-libflate = "0.1.27"
+flate2 = "1.0.13"
+num-traits = "0.2.11"
+num-derive = "0.3.0"
+structopt = "0.3.11"
